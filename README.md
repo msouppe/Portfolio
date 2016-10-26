@@ -2,7 +2,6 @@
 The personal  portfolio of Mariette Souppe
 
 ## Weather
-
 ### Description
 
 Mobile first web-app that retrieves API weather data to display how much warmer or colder the current forecast is compared to the day before, depending on a user's location.
@@ -19,9 +18,10 @@ Others: Wunderground Weather API
 <br>
 <br>
 
-## Family Buisness Website
-
+## Family Business Website
 ### Description
+
+Prototyped a design to be implemented for a family business 
 
 ### Technologies Used
 
@@ -35,7 +35,6 @@ Frontend: Bootstrap, Geolocation, JSON, HTML, CSS, Javascript, JQuery
 <br>
 
 ## Falling Tomato
-
 ### Description
 
 Mobile first web-app that retrieves API weather data to display how much warmer or colder the current forecast is compared to the day before, depending on a user's location.
@@ -45,14 +44,13 @@ Mobile first web-app that retrieves API weather data to display how much warmer 
 Tools: Android Studio, Java, XML, Phone accelerometer data
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10625343/19734614/0c6ff846-9b5d-11e6-901a-348268f51f20.png"/>
+  <img src="https://cloud.githubusercontent.com/assets/10625343/19742052/32841920-9b78-11e6-9b8b-1093f4fca56d.gif"/>
 </p>
 
 <br>
 <br>
 
 ## Autonomous Robot
-
 ### Description
 
 An autonomous vehicle using integrated sensors to drive itself through an obstacle. Architected software libraries to interface with actuators and budgeted power through the distributed system.
@@ -73,3 +71,4 @@ Website: https://cmpe118teamyubnub.wordpress.com/
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/10625343/19740217/b3d4b83c-9b72-11e6-8fb9-b7ff6b5488f0.gif"/>
 </p>
+
