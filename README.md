@@ -25,7 +25,7 @@ Prototyped a design to be implemented for a family business
 
 ### Technologies Used
 
-Frontend: Bootstrap, Geolocation, JSON, HTML, CSS, Javascript, JQuery 
+Frontend: Bootstrap, HTML, CSS, Javascript, JQuery 
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/10625343/19740427/80fd6afc-9b73-11e6-9214-5c2f4916970f.png"/>
