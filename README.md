@@ -59,7 +59,7 @@ An autonomous vehicle using integrated sensors to drive itself through an obstac
 
 ### Technologies Used
 
-Tools: MPLabX, Embedded C, SolidWorks, Laser Cutter, PIC32 microcontroller
+Tools: MPLabX, Embedded C, SolidWorks, Laser Cutter, PIC32 microcontroller <br>
 Website: https://cmpe118teamyubnub.wordpress.com/
 
 <p align="center">
