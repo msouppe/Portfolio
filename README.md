@@ -19,6 +19,21 @@ Others: Wunderground Weather API
 <br>
 <br>
 
+## Family Buisness Website
+
+### Description
+
+### Technologies Used
+
+Frontend: Bootstrap, Geolocation, JSON, HTML, CSS, Javascript, JQuery 
+
+<p align="center">
+  <img src=""/>
+</p>
+
+<br>
+<br>
+
 ## Falling Tomato
 
 ### Description
@@ -36,26 +51,16 @@ Tools: Android Studio, Java, XML, Phone accelerometer data
 <br>
 <br>
 
-## Family Buisness Website
-
-### Description
-
-### Technologies Used
-
-
-<p align="center">
-  <img src=""/>
-</p>
-
-<br>
-<br>
-
 ## Autonomous Robot
 
 ### Description
 
+An autonomous vehicle using integrated sensors to drive itself through an obstacle. Architected software libraries to interface with actuators and budgeted power through the distributed system.
+
 ### Technologies Used
 
+Tools: MPLabX, Embedded C, SolidWorks, Laser Cutter, PIC32 microcontroller
+Website: https://cmpe118teamyubnub.wordpress.com/
 
 <p align="center">
   <img src=""/>
